@@ -1,0 +1,15 @@
+All the task should be preapared in Jupyter notebook/Google colab and sent in pdf format!
+
+For the tasks you can use the datasets from this github repository (mostly focus on london_weekdays, london_weekend, rome_weekends, rome_weekdays).
+For more description of the data go to https://www.kaggle.com/datasets/thedevastator/airbnb-prices-in-european-cities
+
+Prepare comparison between 2 cities considering different days of the week (weekdays vs weekend) and present your insights using at least 4 different types of graphs:
+- bar plots
+- scatter plots
+- histograms
+- violin/box plots
+- line plots
+- stack plots
+
+There should be at least 8 plots in the report, all report should have name and values on the axes (except the pie charts), titles and 
+a few sentences of description of the plot with some conclusion. 
